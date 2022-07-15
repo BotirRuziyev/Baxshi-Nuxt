@@ -1,0 +1,2 @@
+# Baxshi-Nuxt
+Baxshi-Nuxt
